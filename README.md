@@ -11,6 +11,6 @@ An in-depth exploration of Israel's rankings in the World Happiness Report, focu
 A comprehensive analysis of music streaming data from Spotify, utilizing SQL queries to extract meaningful insights and trends. The project includes visualizations of streaming metrics and patterns across various artists and songs.
 
 ## Tools and Technologies:
-SQL (for querying and analyzing datasets)
-Python (Matplotlib, Seaborn for data visualization)
-Jupyter Notebook (for running and presenting analysis)
+SQL (for querying and analyzing datasets) <br>
+Python (Matplotlib, Seaborn for data visualization) <br>
+Jupyter Notebook (for running and presenting analysis) <br>
