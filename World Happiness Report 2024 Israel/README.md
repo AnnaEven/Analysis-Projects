@@ -1,4 +1,4 @@
-**World Happiness Report Analysis: Israel and Countries Facing Devastating Events** <br>
+**World Happiness Report Analysis: Israel and Countries Facing Devastating Events** TL;DR <br>
 
 This project explores the 2024 World Happiness Report with a focus on Israel and countries affected by major events between 2010-2024. The analysis investigates how devastating events such as wars, natural disasters, and political turmoil impact a nation's happiness, well-being, and emotional state. <br>
 
